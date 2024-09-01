@@ -4,3 +4,5 @@ LETS GO CRAZY THIS MONTH AGAIN.
 
 SEP-01
 Sunday chill day , but i will still put in some light work in.
+
+SEP-02
