@@ -3,3 +3,4 @@ I AM PROUD OF YOU ONCE AGAIN DAVID, YOU HAVE DONE REALLY WELL THESE PAST FEW MON
 LETS GO CRAZY THIS MONTH AGAIN.
 
 SEP-01
+Sunday chill day , but i will still put in some light work in.
