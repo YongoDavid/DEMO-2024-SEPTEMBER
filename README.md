@@ -7,3 +7,4 @@ Sunday chill day , but i will still put in some light work in.
 
 SEP-02
 New week new grind , lets go razy this month.
+I still have alot of project to finish on Qwasar , and i have been slacking on them for a very long time.
