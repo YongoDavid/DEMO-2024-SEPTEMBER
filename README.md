@@ -9,3 +9,5 @@ SEP-02
 New week new grind , lets go razy this month.
 I still have alot of project to finish on Qwasar , and i have been slacking on them for a very long time.
 So i need to puut more efffort and get them done as i will soon be rounding off.
+
+SEP-03
