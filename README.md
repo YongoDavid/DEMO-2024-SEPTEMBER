@@ -12,3 +12,4 @@ So i need to puut more efffort and get them done as i will soon be rounding off.
 
 SEP-03
 New day , same grind.
+i need to put in more wok on react and do more projects with it.
