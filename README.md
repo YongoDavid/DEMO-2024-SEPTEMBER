@@ -11,3 +11,4 @@ I still have alot of project to finish on Qwasar , and i have been slacking on t
 So i need to puut more efffort and get them done as i will soon be rounding off.
 
 SEP-03
+New day , same grind.
