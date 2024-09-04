@@ -17,3 +17,5 @@ So that i can get very familier with most of the principles
 
 SEP-04
 Another dayy , same grind.
+
+
