@@ -17,5 +17,4 @@ So that i can get very familier with most of the principles
 
 SEP-04
 Another dayy , same grind.
-I think i am going to delete my pokemon app and start over again.
-
+My pokemon project is not really going as planned , that that i get for copying and pasting code hahaha.
