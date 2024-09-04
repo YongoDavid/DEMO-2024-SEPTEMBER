@@ -18,3 +18,5 @@ So that i can get very familier with most of the principles
 SEP-04
 Another dayy , same grind.
 My pokemon project is not really going as planned , that that i get for copying and pasting code hahaha.
+i am deleting the pokemon project and starting afresh , wish me luck.
+
