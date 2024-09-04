@@ -16,3 +16,4 @@ i need to put in more wok on react and do more projects with it.
 So that i can get very familier with most of the principles
 
 SEP-04
+Another dayy , same grind.
