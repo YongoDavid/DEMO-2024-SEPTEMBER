@@ -22,3 +22,4 @@ i am deleting the pokemon project and starting afresh , wish me luck.
 
 SEP-05
 I am updating my linked in profile.
+I also restarted my pokemonapp project and its looking good now.
