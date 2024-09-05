@@ -21,3 +21,4 @@ My pokemon project is not really going as planned , that that i get for copying 
 i am deleting the pokemon project and starting afresh , wish me luck.
 
 SEP-05
+I am updating my linked in profile.
