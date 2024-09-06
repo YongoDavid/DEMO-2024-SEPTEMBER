@@ -25,3 +25,5 @@ I am updating my linked in profile.
 I also restarted my pokemonapp project and its looking good now.
 Everything is working now , the search page is working and the lazy loading is also working as it should.
 The design looks very nice as well, i just have to touch a few more things and i should be ready to submit.
+
+SEP-06
