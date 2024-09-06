@@ -27,3 +27,4 @@ Everything is working now , the search page is working and the lazy loading is a
 The design looks very nice as well, i just have to touch a few more things and i should be ready to submit.
 
 SEP-06
+New day,same grind.
