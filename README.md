@@ -32,3 +32,4 @@ New day,same grind.
 SEP-7
 Practicing more on react.
 Might work on some new projects.
+State management is REACT is soo crazy and t bursts my brain everytime.
