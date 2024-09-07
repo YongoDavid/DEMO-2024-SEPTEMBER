@@ -30,4 +30,4 @@ SEP-06
 New day,same grind.
 
 SEP-7
-
+Practicing more on react.
