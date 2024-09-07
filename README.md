@@ -31,3 +31,4 @@ New day,same grind.
 
 SEP-7
 Practicing more on react.
+Might work on some new projects.
