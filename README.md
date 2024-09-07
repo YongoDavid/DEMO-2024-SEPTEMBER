@@ -28,3 +28,6 @@ The design looks very nice as well, i just have to touch a few more things and i
 
 SEP-06
 New day,same grind.
+
+SEP-7
+
