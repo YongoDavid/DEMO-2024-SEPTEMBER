@@ -38,3 +38,4 @@ i need to figure out my WHYS when wriiting code.
 Like why i should write code in a cerain way instead of another which will help me to noot learn sooo many ways to do one thing but rather stick to one and improve with time.
 
 SEP-08
+Sunday chill day.
