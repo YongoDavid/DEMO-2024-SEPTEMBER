@@ -33,3 +33,5 @@ SEP-7
 Practicing more on react.
 Might work on some new projects.
 State management is REACT is soo crazy and t bursts my brain everytime.
+i need to figure out my WHYS when wriiting code.
+
