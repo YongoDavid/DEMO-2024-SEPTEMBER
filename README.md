@@ -1,3 +1,4 @@
+
 # DEMO-2024-SEPTEMBER
 I AM PROUD OF YOU ONCE AGAIN DAVID, YOU HAVE DONE REALLY WELL THESE PAST FEW MONTHS AND YOU CANT STOP NOW, KEEP GOING , KEEP GRINDING YOU CAN DO ANYTHING YOU OUT YOUR MND TO.
 LETS GO CRAZY THIS MONTH AGAIN.
@@ -35,3 +36,5 @@ Might work on some new projects.
 State management is REACT is soo crazy and t bursts my brain everytime.
 i need to figure out my WHYS when wriiting code.
 Like why i should write code in a cerain way instead of another which will help me to noot learn sooo many ways to do one thing but rather stick to one and improve with time.
+
+SEP-08
