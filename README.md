@@ -40,3 +40,5 @@ Like why i should write code in a cerain way instead of another which will help 
 SEP-08
 Sunday chill day.
 Still practicing REACT.
+
+SEP-09
