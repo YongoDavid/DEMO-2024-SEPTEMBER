@@ -44,3 +44,4 @@ Still practicing REACT.
 SEP-09
 Back at it again!!
 i dont know what wrong but sleep and i have to stop being friends.
+i dont wake up oe stay up at midnight , i need to go back to doing that.
