@@ -47,4 +47,4 @@ i dont know what wrong but sleep and i have to stop being friends.
 i dont wake up oe stay up at midnight , i need to go back to doing that.
 
 SEP-10
-
+My pokemon project has finally been approved and i am ready to move to the next project.
