@@ -49,3 +49,6 @@ i dont wake up oe stay up at midnight , i need to go back to doing that.
 SEP-10
 New day , more coding!!
 My pokemon project has finally been approved and i am ready to move to the next project.
+
+SEP-11
+
