@@ -52,4 +52,4 @@ My pokemon project has finally been approved and i am ready to move to the next 
 
 SEP-11
 My REACT skills are getting stronger and stronger, which is very good.
-
+I just need to keep practing more and more.
