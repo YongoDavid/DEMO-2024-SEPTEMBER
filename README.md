@@ -51,4 +51,5 @@ New day , more coding!!
 My pokemon project has finally been approved and i am ready to move to the next project.
 
 SEP-11
+My REACT skills are getting stronger and stronger, which is very good.
 
