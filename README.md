@@ -56,3 +56,4 @@ I just need to keep practing more and more.
 
 SEP-12
 New day,new grind!
+Back to working on my Qwasar projects.
