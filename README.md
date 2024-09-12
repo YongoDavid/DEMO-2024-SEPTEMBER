@@ -57,3 +57,5 @@ I just need to keep practing more and more.
 SEP-12
 New day,new grind!
 Back to working on my Qwasar projects.
+I have 3 more projects for season3 left.
+
