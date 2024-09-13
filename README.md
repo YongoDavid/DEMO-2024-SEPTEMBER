@@ -65,3 +65,4 @@ New day new grind.
 i will be going deeper into looking at firebase , this will be an alternative for AWS amplify.
 They both kind of perform thesame function so lets see how it goes.
 
+SEP-14
