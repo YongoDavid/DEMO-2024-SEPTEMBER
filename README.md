@@ -66,3 +66,4 @@ i will be going deeper into looking at firebase , this will be an alternative fo
 They both kind of perform thesame function so lets see how it goes.
 
 SEP-14
+New day , new grind!!
