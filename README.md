@@ -69,3 +69,5 @@ SEP-14
 New day , new grind!!
 I am going to finish up working on Cryptography with Node.js , then after continue with firebase.
 i will be using firebase for My instagram project and Yelp so i need to takkke time to study it and use this oppurtunity to learn firebase not 100% but for what i need it for.
+Lets start the night session and see how it goes.
+
