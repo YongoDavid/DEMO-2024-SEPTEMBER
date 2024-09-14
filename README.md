@@ -67,3 +67,5 @@ They both kind of perform thesame function so lets see how it goes.
 
 SEP-14
 New day , new grind!!
+I am going to finish up working on Cryptography with Node.js , then after continue with firebase.
+
