@@ -72,3 +72,4 @@ i will be using firebase for My instagram project and Yelp so i need to takkke t
 Lets start the night session and see how it goes.
 
 SEP-15
+New day , new grind
