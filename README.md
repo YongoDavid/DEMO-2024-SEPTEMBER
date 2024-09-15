@@ -74,4 +74,4 @@ Lets start the night session and see how it goes.
 SEP-15
 New day , new grind
 my instagram project is still in progress.
-The authentication , setup and storage has been setup , but only authenrication has been tested
+The authentication , setup and storage has been setup , but only authenrication has been tested.
