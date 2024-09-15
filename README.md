@@ -75,3 +75,5 @@ SEP-15
 New day , new grind
 my instagram project is still in progress.
 The authentication , setup and storage has been setup , but only authenrication has been tested.
+i still need to figure out why the storage is not working work on the UI then the project will be almost done.
+
