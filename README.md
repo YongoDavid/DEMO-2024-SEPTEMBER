@@ -86,3 +86,4 @@ still working on my instagram project and i an still trying to figure out how to
 
 SEP-18
 New day , new grind. Another night dose in progress.
+I made alot of changes now to the instagram project , it has completely new internals.
