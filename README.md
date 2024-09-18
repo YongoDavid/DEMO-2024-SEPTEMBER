@@ -85,4 +85,4 @@ New day new grind! , running my normal night dose.
 still working on my instagram project and i an still trying to figure out how to make the login and signup work.
 
 SEP-18
-New day , new grind. Anther night dose in progress.
+New day , new grind. Another night dose in progress.
