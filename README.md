@@ -96,3 +96,4 @@ There are no errors again for the instagram project but something is not just wo
 When the server starts it is succesfull but nothing is displaying on the screen(i need to figure this out as well).
 
 SEP-20
+New day , new grind , another night dose.
