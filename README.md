@@ -92,3 +92,4 @@ i just have to test it and see how everything goes after testing it.
 SEP-19
 Another day another night dose.
 There is much more progess on the instagram project now
+There are no errors again for the instagram project but something is not just working out.
