@@ -95,3 +95,4 @@ There is much more progess on the instagram project now
 There are no errors again for the instagram project but something is not just working out.
 When the server starts it is succesfull but nothing is displaying on the screen(i need to figure this out as well).
 
+SEP-20
