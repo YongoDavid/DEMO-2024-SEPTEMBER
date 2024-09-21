@@ -99,3 +99,4 @@ SEP-20
 New day , new grind , another night dose.
 
 SEP-21
+Another day another grind.
