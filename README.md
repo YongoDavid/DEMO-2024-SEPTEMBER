@@ -97,3 +97,5 @@ When the server starts it is succesfull but nothing is displaying on the screen(
 
 SEP-20
 New day , new grind , another night dose.
+
+SEP-21
