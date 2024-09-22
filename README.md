@@ -103,4 +103,4 @@ Another day another grind.
 Still working on my instagram project ,there has been alot of issues but i am still trying to resolve it.
 
 SEP-22
-Suday with a little bit of work!!
+Sunday with a little bit of work!!
