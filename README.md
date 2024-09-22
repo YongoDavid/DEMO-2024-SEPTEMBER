@@ -101,3 +101,5 @@ New day , new grind , another night dose.
 SEP-21
 Another day another grind.
 Still working on my instagram project ,there has been alot of issues but i am still trying to resolve it.
+
+SEP-22
