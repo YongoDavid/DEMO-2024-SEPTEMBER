@@ -109,3 +109,4 @@ The UI is good, there are just some few changes that need to be made.
 and i have to push the fresh project again to QWASAR.
 
 SEP-23
+Still working on firebase for my instagram project.
