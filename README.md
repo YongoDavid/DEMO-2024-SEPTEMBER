@@ -114,3 +114,4 @@ This project has really dealt with me and my laptop storage issue again but what
 After making sure all the firebase services are working i will then move back to the UI and make some changes.
 
 SEP-24
+Firebase is now setup and working as it should.
