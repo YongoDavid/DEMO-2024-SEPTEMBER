@@ -115,3 +115,4 @@ After making sure all the firebase services are working i will then move back to
 
 SEP-24
 Firebase is now setup and working as it should.
+i just have to run a few more tests.
