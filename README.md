@@ -117,3 +117,6 @@ SEP-24
 Firebase is now setup and working as it should.
 i just have to run a few more tests.
 Also i want to make some UI changes as well, then i will submit.
+
+SEP-25
+
