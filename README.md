@@ -133,3 +133,4 @@ i am starting my dropbox project now, so lets see how it goes.
 
 SEP-28
 New day , new grind!!
+i am setting up the S3 bucket for my drop-box project.
