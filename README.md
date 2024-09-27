@@ -128,3 +128,4 @@ This project helped me to be familiar with AWS services like Amplify , lambda an
 Thhe project has been approved and i am moving on to hosting my instagram and submitting it.
 
 SEP-27
+New day new grind.
