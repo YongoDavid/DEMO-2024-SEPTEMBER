@@ -130,3 +130,6 @@ Thhe project has been approved and i am moving on to hosting my instagram and su
 SEP-27
 New day new grind.
 i am starting my dropbox project now, so lets see how it goes.
+
+SEP-28
+
