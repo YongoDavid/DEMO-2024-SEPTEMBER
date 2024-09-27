@@ -126,3 +126,5 @@ SEP-26
 Submitted my yelp project.
 This project helped me to be familiar with AWS services like Amplify , lambda and S3 Bucket.
 Thhe project has been approved and i am moving on to hosting my instagram and submitting it.
+
+SEP-27
