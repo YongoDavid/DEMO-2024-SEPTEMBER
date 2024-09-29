@@ -137,3 +137,5 @@ i am setting up the S3 bucket for my drop-box project.
 
 SEP-29
 i have finally been able to get a flashdrive.
+i have been able to trasnfer somethings to the flash drive and free up some space on my laptop.
+
