@@ -136,4 +136,4 @@ New day , new grind!!
 i am setting up the S3 bucket for my drop-box project.
 
 SEP-29
-
+i have finally been able to get a flashdrive.
